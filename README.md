@@ -3,7 +3,5 @@ Projeto de um site para pesquisa e listagem de repositórios do github. Elaborad
 
 A aplicação está hospedada na url: https://desafio-frontend-lecom.herokuapp.com
 
-Caso prefira você pode rodar a aplicação de forma local, atráves do comando:
+Caso prefira você pode rodar a aplicação de forma local em modo de produção, atráves do comando:
 # npm start
-
-
