@@ -1,5 +1,7 @@
 # desafio_lecom_frontend
-Projeto de um site para pesquisa e listagem de repositórios do github. Elaborado como forma de avaliação para o desafio de front-end do programa Let's Grow 2021 da Lecom Tecnologia S.A.
+Projeto de um site para pesquisa e listagem de repositórios do github criado usando React. 
+
+Elaborado como forma de avaliação para o desafio de front-end do programa Let's Grow 2021 da Lecom Tecnologia S.A.
 
 Utilizei a biblioteca Axios para a comunicação com a Api do github e a plataforma Heroku para hospedar a aplicação.
 
