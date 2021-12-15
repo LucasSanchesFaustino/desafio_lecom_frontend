@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# desafio_lecom_frontend
+Projeto de um site para pesquisa e listagem de repositórios do github. Elaborado como forma de avaliação para o desafio do programa Let's Grow 2021.
+>>>>>>> 3e9b6d57a6fb1ef1eb18b8baec485df4d9d60d80
